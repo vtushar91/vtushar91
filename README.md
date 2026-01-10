@@ -7,7 +7,7 @@ Software Developer | Golang & Django | AWS Enthusiast
 🌱 I’m currently learning distributed systems, scalable architectures, and cloud best practices  
 
 👨‍💻 All of my projects are available at  
-👉 https://github.com/<vtushar91>
+👉 https://github.com/vtushar91
 
 📫 How to reach me: **tushar.v0911@gmail.com**
 
