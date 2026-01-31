@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tushar
 
-Software Developer | Golang & Django | AWS Enthusiast
+Software Developer | Golang & Django | ReactJS & NextJS | AWS Enthusiast
 
 🔭 I’m currently working on backend-heavy systems, analytics & APIs  
 
