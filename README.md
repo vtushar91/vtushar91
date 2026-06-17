@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tushar
 
-Software Developer | Golang & Django | Swift IOS | AWS Enthusiast
+Software Developer | Golang & Django | AWS Enthusiast
 
 🔭 I’m currently working on backend-heavy systems, analytics & APIs  
 
@@ -16,6 +16,6 @@ Software Developer | Golang & Django | Swift IOS | AWS Enthusiast
 ## 🛠 Languages and Tools
 
 - **Backend:** Golang, Python, Django  
-- **Databases:** PostgreSQL, MongoDB, Clickhouse  
+- **Databases:** PostgreSQL, MongoDB, Clickhouse, ScyllaDB
 - **Cloud & DevOps:** AWS, Docker, Nginx  
 - **Tools:** Git, Postman, VS Code
