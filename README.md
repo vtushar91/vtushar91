@@ -15,7 +15,11 @@ Software Developer | Golang & Django | AWS Enthusiast
 
 ## 🛠 Languages and Tools
 
-- **Backend:** Golang, Python, Django  
-- **Databases:** PostgreSQL, MongoDB, Clickhouse, ScyllaDB
-- **Cloud & DevOps:** AWS, Docker, Nginx  
-- **Tools:** Git, Postman, VS Code
+- **Languages:** Golang, Python, SQL
+- **Backend:** Django, Django REST Framework, Gin, REST APIs, gRPC
+- **Databases:** PostgreSQL, MongoDB, ClickHouse, ScyllaDB, Redis
+- **Messaging:** Apache Kafka
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Nginx, Linux
+- **Testing & Observability:** Unit Testing, Integration Testing, Logging, Prometheus, Grafana
+- **CI/CD:** GitHub Actions
+- **Tools:** Git, GitHub, Postman, VS Code
